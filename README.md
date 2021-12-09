@@ -32,3 +32,7 @@ $ python IP-Adderss.py
 or 
 $ python IP-Adderss.py -H <site> |  example: python IP-Adderss.py -H www.example.com
 ```
+
+<img src="https://raw.githubusercontent.com/Roxcoder/ip-address/main/Capture.JPG" alte=Capture>
+
+
