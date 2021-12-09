@@ -20,7 +20,7 @@ $ cd ip-address
 ## Run as windows
 
 ```
-$ python ip-address.py
+$ python IP-Adderss.py
 or 
 $ python IP-Adderss.py -H <site> |  example: python IP-Adderss.py -H www.example.com
 ```
