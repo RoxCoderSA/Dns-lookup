@@ -1,16 +1,14 @@
 import socket #Importing library socket 
-import argparse #Importing library argparse
+import argparse #Importing library arg
 
-print("""
+print('''
 
-██╗██████╗        █████╗ ██████╗ ██████╗ ██████╗ ███████╗███████╗███████╗
-██║██╔══██╗      ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝
-██║██████╔╝█████╗███████║██║  ██║██║  ██║██████╔╝█████╗  ███████╗███████╗
-██║██╔═══╝ ╚════╝██╔══██║██║  ██║██║  ██║██╔══██╗██╔══╝  ╚════██║╚════██║
-██║██║           ██║  ██║██████╔╝██████╔╝██║  ██║███████╗███████║███████║
-╚═╝╚═╝           ╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ @Roxcoder                                                                                          
+88 88""Yb             db    8888b.  8888b.  88""Yb 888888 .dP"Y8 .dP"Y8 
+88 88__dP ________   dPYb    8I  Yb  8I  Yb 88__dP 88__   `Ybo." `Ybo." 
+88 88"""  """"""""  dP__Yb   8I  dY  8I  dY 88"Yb  88""   o.`Y8b o.`Y8b 
+88 88              dP""""Yb 8888Y"  8888Y"  88  Yb 888888 8bodP' 8bodP' @Roxcoder
 
-""")
+''')
 
 #Create varble call parser and adding description of script
 parser=argparse.ArgumentParser(description="Ths script help user get ip adderss of websites")
