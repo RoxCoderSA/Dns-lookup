@@ -20,17 +20,17 @@ $ cd ip-address
 ## Run as windows
 
 ```
-$ python IP-Adderss.py
+$ python IP-Address
 or 
-$ python IP-Adderss.py -H <site> |  example: python IP-Adderss.py -H www.example.com
+$ python IP-Address -H <site> |  example: python IP-Adderss.py -H www.example.com
 ```
 
 ## Run as Linux
 ```
-sudo chmod +x IP-Adderss.py
-$ python IP-Adderss.py
+sudo chmod +x IP-Address
+$ python IP-Address
 or 
-$ python IP-Adderss.py -H <site> |  example: python IP-Adderss.py -H www.example.com
+$ python IP-Address -H <site> |  example: python IP-Adderss.py -H www.example.com
 ```
 
 <img src="https://raw.githubusercontent.com/Roxcoder/ip-address/main/Capture.JPG" alte=Capture>
