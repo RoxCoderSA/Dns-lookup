@@ -20,9 +20,9 @@ $ cd ip-address
 ## Run as windows
 
 ```
-$ python IP-Address
+$ python IP-Address.py
 or 
-$ python IP-Address -H <site> |  example: python IP-Adderss.py -H www.example.com
+$ python IP-Address.py -H <site> |  example: python IP-Adderss.py -H www.example.com
 ```
 
 ## Run as Linux
