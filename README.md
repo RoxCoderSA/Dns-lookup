@@ -27,10 +27,10 @@ $ python IP-Address -H <site> |  example: python IP-Adderss.py -H www.example.co
 
 ## Run as Linux
 ```
-sudo chmod +x IP-Address
-$ python IP-Address
+sudo chmod +x IP-Address.py
+$ python3 IP-Address.py
 or 
-$ python IP-Address -H <site> |  example: python IP-Adderss.py -H www.example.com
+$ python3 IP-Address.py -H <site> |  example: python IP-Adderss.py -H www.example.com
 ```
 
 <img src="https://raw.githubusercontent.com/Roxcoder/ip-address/main/Capture.JPG" alte=Capture>
