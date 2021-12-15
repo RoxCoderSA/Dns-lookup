@@ -22,7 +22,7 @@ $ cd ip-address
 ```
 $ python IP-Address.py
 or 
-$ python IP-Address.py -H <site> |  example: python IP-Adderss.py -H www.example.com
+$ python IP-Address.py -H <site> |  example: python IP-Address.py -H www.example.com
 ```
 
 ## Run as Linux
@@ -30,7 +30,7 @@ $ python IP-Address.py -H <site> |  example: python IP-Adderss.py -H www.example
 sudo chmod +x IP-Address.py
 $ python3 IP-Address.py
 or 
-$ python3 IP-Address.py -H <site> |  example: python IP-Adderss.py -H www.example.com
+$ python3 IP-Address.py -H <site> |  example: python IP-Address.py -H www.example.com
 ```
 
 <img src="https://raw.githubusercontent.com/Roxcoder/ip-address/main/Capture.JPG" alte=Capture>
