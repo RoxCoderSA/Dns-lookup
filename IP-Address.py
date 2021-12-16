@@ -21,6 +21,9 @@ args=parser.parse_args()
 
 #Chack the value from user if the user writing host or not 
 if args.host:
+    args.host = args.host.replace("https://" , "") # remove https://
+    args.host = args.host.replace("http://" , "") #remove http://
+    args.host = args.host.replace("/" , "") #remove /
     print("\n")#newline for space
     print(socket.gethostbyname(args.host)) #call the function gethostbyname to get IP Adderss of website the user entered
     print("\n") #newline for space
@@ -29,6 +32,9 @@ if args.host:
 
 def website_ipAdderss(): # create function to get ip address
     URL = input("Enter website URL : ") #enter the website from userS
+    URL = URL.replace("https://" , "") #remove https://
+    URL = URL.replace("http://" , "") #remove http://
+    URL = URL.replace("/" , "") #remove /
     print("\n")#newline for space
     print(socket.gethostbyname(URL)) #call the function gethostbyname to get IP Adderss of website the user entered
     print("\n") #newline for space
