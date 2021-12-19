@@ -14,7 +14,7 @@
 ##### clone the repo
 $ git clone https://github.com/Roxcoder/Dns-lookup.git
 
-##### change directory to ip-address
+##### change directory to Dns-lookup
 $ cd Dns-lookup
 
 ## Run as windows
@@ -27,7 +27,8 @@ $ python Dns-lookup.py -H <site> |  example: python Dns-lookup.py -H www.example
 
 ## Run as Linux
 ```
-sudo chmod +x IP-Address.py
+sudo chmod +x Dns-lookup.py
+or 
 $ python3 Dns-lookup.py
 or 
 $ python3 Dns-lookup.py -H <site> |  example: python Dns-lookup.py -H www.example.com
