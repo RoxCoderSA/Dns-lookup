@@ -12,27 +12,25 @@
 ## Installation 
 
 ##### clone the repo
-$ git clone https://github.com/Roxcoder/ip-address.git
+$ git clone https://github.com/Roxcoder/Dns-lookup.git
 
 ##### change directory to ip-address
-$ cd ip-address
+$ cd Dns-lookup
 
 ## Run as windows
 
 ```
-$ python IP-Address.py
+$ python Dns-lookup.py
 or 
-$ python IP-Address.py -H <site> |  example: python IP-Address.py -H www.example.com
+$ python Dns-lookup.py -H <site> |  example: python Dns-lookup.py -H www.example.com
 ```
 
 ## Run as Linux
 ```
 sudo chmod +x IP-Address.py
-$ python3 IP-Address.py
+$ python3 Dns-lookup.py
 or 
-$ python3 IP-Address.py -H <site> |  example: python IP-Address.py -H www.example.com
+$ python3 Dns-lookup.py -H <site> |  example: python Dns-lookup.py -H www.example.com
 ```
 
 <img src="https://raw.githubusercontent.com/Roxcoder/ip-address/main/Capture.JPG" alte=Capture>
-
-
