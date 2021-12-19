@@ -7,7 +7,7 @@
 
 ## Description
 
-###### This script helps the user to know the ip-address of the site instead of pinging every time all the user has the site.11
+###### This script helps the user to know the ip-address of the site instead of pinging every time all the user has the site.
 
 ## Installation 
 
