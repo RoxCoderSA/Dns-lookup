@@ -33,4 +33,4 @@ or
 $ python3 Dns-lookup.py -H <site> |  example: python Dns-lookup.py -H www.example.com
 ```
 
-<img src="https://raw.githubusercontent.com/Roxcoder/ip-address/main/Capture.JPG" alte=Capture>
+<img src="https://raw.githubusercontent.com/Roxcoder/Dns-lookup/main/Capture.png" alte=Capture>
